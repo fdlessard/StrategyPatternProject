@@ -1,7 +1,7 @@
 # maven_template_app
 
 [![Build Status](https://travis-ci.org/fdlessard/maven_template_app.svg)](https://travis-ci.org/fdlessard/maven_template_app)
-[![License](http://img.shields.io/:license-apache 2.0-blue.svg)](https://github.com/fdlessard/maven_template_app/blob/master/LICENSE)
+[![License](http://img.shields.io/:license-mit-blue.svg)](https://github.com/fdlessard/maven_template_app/blob/master/LICENSE)
 
 Run the tests:
 
