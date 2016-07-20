@@ -1,4 +1,4 @@
-package com.lessard;
+package com.lessard.codesamples;
 
 /**
  * Hello world!
