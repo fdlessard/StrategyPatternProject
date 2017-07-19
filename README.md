@@ -1,4 +1,4 @@
-# Basic maven application
+# StrategyPatternProject
 
 [![Build Status](https://travis-ci.org/fdlessard/BasicMavenProject.svg)](https://travis-ci.org/fdlessard/BasicMavenProject)
 [![License](http://img.shields.io/:license-mit-blue.svg)](https://github.com/fdlessard/BasicMavenProject/blob/master/LICENSE)
@@ -12,5 +12,5 @@ $ mvn test
 Run the app:
  
 ```
-mvn exec:java -Dexec.mainClass="com.lessard.App"
+mvn exec:java -Dexec.mainClass="io.fdlessard.codebites.strategypattern.App"
 ```

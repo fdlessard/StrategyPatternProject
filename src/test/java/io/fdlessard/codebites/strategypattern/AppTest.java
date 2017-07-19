@@ -1,4 +1,4 @@
-package com.lessard.codesamples;
+package io.fdlessard.codebites.strategypattern;
 
 import org.junit.Test;
 import static org.junit.Assert.assertTrue;
