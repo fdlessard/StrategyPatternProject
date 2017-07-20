@@ -13,4 +13,9 @@ Run the app:
  
 ```
 mvn exec:java -Dexec.mainClass="io.fdlessard.codebites.strategypattern.App"
+
 ```
+
+Inline-style: 
+![alt text](https://github.com/fdlessard/StrategyPatternProject/blob/master/StrategyPattern.png "UML")
+
