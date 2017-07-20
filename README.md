@@ -16,6 +16,6 @@ mvn exec:java -Dexec.mainClass="io.fdlessard.codebites.strategypattern.App"
 
 ```
 
-Inline-style: 
+UML: 
 ![alt text](https://github.com/fdlessard/StrategyPatternProject/blob/master/StrategyPattern.png "UML")
 
